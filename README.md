@@ -1,3 +1,7 @@
+### For ubuntu 18.04 run below command before building ..
+## sudo apt-get install libnl-3-dev libnl-genl-3-dev
+
+
 [![Build Status](https://travis-ci.org/wifiphisher/wifiphisher.svg?branch=master)](https://travis-ci.org/wifiphisher/wifiphisher)
 [![Documentation Status](https://readthedocs.org/projects/wifiphisher/badge/?version=latest)](http://wifiphisher.readthedocs.io/en/latest/?badge=latest)
 ![Python Version](https://img.shields.io/badge/python-3.7-blue.svg)
