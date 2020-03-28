@@ -73,7 +73,7 @@ To install the latest development version type the following commands:
 ```bash
 git clone https://github.com/wifiphisher/wifiphisher.git # Download the latest revision
 cd wifiphisher # Switch to tool's directory
-sudo python setup.py install # Install any dependencies
+sudo python3 setup.py install # Install any dependencies
 ```
 
 Alternatively, you can download the latest stable version from the <a href="https://github.com/wifiphisher/wifiphisher/releases">Releases page</a>.
